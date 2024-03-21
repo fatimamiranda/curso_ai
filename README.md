@@ -1,4 +1,3 @@
 # curso_ai
 
-
-prueba?
+Ejercicios del curso de Sinensia para Accenture sobre Python e Introduccion a la IA
